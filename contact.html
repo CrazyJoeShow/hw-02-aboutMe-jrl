@@ -33,11 +33,11 @@
 			crossorigin="anonymous"
 		></script>
 		<link rel="stylesheet" href="assets/overboot.css" />
-    </head>
-    
-    <body>
+	</head>
+	<!-- BODY  -->
+	<body>
 		<nav class="navbar navbar-expand-lg navbar-light bg-light">
-			<a class="navbar-brand ml-2" href="index.html">Jonathan Canales</a>
+			<a class="navbar-brand ml-2" href="index.html">Joe Lowery</a>
 			<button
 				class="navbar-toggler"
 				type="button"
@@ -49,9 +49,9 @@
 			>
 				<span class="navbar-toggler-icon"></span>
 			</button>
+			<!-- collapses navbar to the right -> -->
 
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
-				<!-- ml-auto floats the nav bar to the right -->
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item">
 						<a class="nav-link" href="contact.html">Contact</a>
@@ -66,5 +66,63 @@
 			</div>
 		</nav>
 
+		<main class="ml-3">
+			<div class="container m-0 ml-2">
+				<div class="row">
+					<div class="col-11 col-sm-10 mb-5 mt-3 card">
+						<div class="card-body">
+							<form>
+								<h1>Contact</h1>
+								<div class="ml-4">
+									<div class="form-group">
+										<label for="exampleInputEmail1">Name</label>
+										<input
+											type="email"
+											class="form-control"
+											id="exampleInputEmail1"
+											aria-describedby="emailHelp"
+											placeholder="Enter email"
+										/>
+										<small id="emailHelp" class="form-text text-muted"
+											>Your privacy is primary concern.</small
+										>
+									</div>
 
+									<div class="form-group">
+										<label for="exampleInputPassword1">Email</label>
+										<input
+											type="password"
+											class="form-control"
+											id="exampleInputPassword1"
+											placeholder="Password"
+										/>
+									</div>
+
+									<div class="form-group">
+										<label for="exampleFormControlTextarea1">Message</label>
+										<textarea
+											class="form-control"
+											id="exampleFormControlTextarea1"
+											placeholder="Message"
+											rows="3"
+										></textarea>
+									</div>
+
+									<div class="form-check"></div>
+								</div>
+								<!-- indent -->
+
+								<button type="submit" class="btn btn-info rounded-0 btn-lg">
+									Submit
+								</button>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</main>
+
+		<footer class="footer-copyright">Surely this is Copyrighted</footer>
+		<script src="" async defer></script>
+	</body>
 </html>
