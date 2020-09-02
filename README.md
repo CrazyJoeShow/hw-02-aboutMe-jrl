@@ -1,6 +1,9 @@
 # hw-02-aboutMe-jrl
 
-- This is a from scratch project by myself so take it easy on me! It really is, as I'm sure you can tell when you get into the application. Which is an about me portfolio and contact info webpage.
+- This is a replication excersize of a portfolio page with 3 separate links. As I'm sure you can tell when you get into the application.
+
+* With some help but started from scratch to build the pages.
+
 - The first step to take open any browser.
 - Second, open the provided link.
 - You are brought to my "homepage" with a small bio about myself and some information for the HW. in this case a sort of electronic portfolio to add to a resume.
