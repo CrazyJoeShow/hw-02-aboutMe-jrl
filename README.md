@@ -21,7 +21,7 @@
 - these three file were individulized to 3 different but styled similar pages, the CSS being in the background.
 - This project showed me how the predetermined customizations in bootstrap can really screw with what I have been trying to accomplish with the HTML and CSS as you can tell my styling is broken...So organization is key I have to start making more notes in the code to help me better reference what i'm looking for while styling.
 
-I would like to the leif one of our TA's who helped me immensely with just showing me to click my div to see where the closing partner is...makes bulding out columns a litter easier to see if you've screwed your order up.
+I would like to thank leif one of our TA's who helped me immensely with just showing me to click my div to see where the closing partner is...makes bulding out columns a litter easier to see if you've screwed your order up.
 Secondly Alex fleming who helped me grasp all the divs when building lines and pages, and Kai who puts notes in his code and I need to do that more!
 
 ## works cited
