@@ -8,5 +8,6 @@
 - Please do note I have messed up the CSS and will be revising once I find the issues, or revise when issue arise with the site.
 - With the Rubric I would much rather show someone all the things I know and what I have to fix, than not "turn in HW" because it was the deadline...Turn it in show what i've got and keep learning from there.
 
-![Validation](/assets/validatioon.png)
-Format: ![Alt Text](htmlValidationImage)
+* Getting close to crunch time, Definitely messed the CSS up, I will be updating once I get graded and will push the revisions.
+
+![htmlValidation]("assets/validation.png")
