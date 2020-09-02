@@ -2,5 +2,5 @@ body {
 	background-image: url('./assets/goofyimage.png');
 }
 main {
-	background-image: url('..assets/goofyimage.png');
+	background-image: url('.assets/goofyimage.png');
 }
